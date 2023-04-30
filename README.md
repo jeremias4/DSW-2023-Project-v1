@@ -2,7 +2,7 @@
 Prueba con Express de una Aplicacion con funciones CRUD basicas.
 
 
-Alcance del proyecto
+Alcance del proyecto:<br>
 El sistema será desarrollado con el fin de asistir en la venta on-line de entradas en un cine. El mismo, abarca desde la carga de datos previa hasta el momento en que un cliente realiza la compra o no.
 El cine cuenta con diferentes salas donde se llevarán a cabo distintas funciones. Cada sala se encuentra previamente cargada, indicando cantidad de asientos y un número que la identifica. Las funciones son cargadas por un empleado del cine, quién debe especificar qué película será transmitida, en qué horario y qué sala. 
 Asumimos que cada función corresponde a una película en específico. Cada película cuenta con un nombre, duración, género, en qué función será transmitida y el precio, que será el mismo para todas. Las butacas, tienen una ubicación especificada en función de un número y se lleva registro de cuales se encuentran ocupadas y cuales no.
